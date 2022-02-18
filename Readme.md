@@ -10,6 +10,4 @@ Topics I can well answer to: `Javascript`, `Programming Languages`, `git`, `gith
 
 > Sahil Rajput
 
-> [Twitter](https://twitter.com/freakstarrocks)
-
-> [Github](http://github.com/sahilrajput03)
+> [Twitter](https://twitter.com/freakstarrocks), [Github](http://github.com/sahilrajput03)
