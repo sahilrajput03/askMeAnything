@@ -1,8 +1,8 @@
 # Readme
 
-[Click here to view previously asked questions](https://github.com/sahilrajput03/askMeAnything/issues)
+[Click here](https://github.com/sahilrajput03/askMeAnything/issues) to view previously asked questions.
 
-[Click here to ask a new question](https://github.com/sahilrajput03/askMeAnything/issues/new)
+[Click here](https://github.com/sahilrajput03/askMeAnything/issues/new) to ask a new question.
 
 *Disclaimer: Please define your doubt/problem as much as you can.*
 
