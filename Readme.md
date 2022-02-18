@@ -6,6 +6,6 @@
 
 *Disclaimer: Please define your doubt/problem as much as you can.*
 
-Topics I can well answer to: `Javascript`, `Programming Languages`, `Docker`, `HTML/CSS`, `Programming Resources`, etc.
+Topics I can well answer to: `Javascript`, `Programming Languages`, `Reactjs`, `Nextjs`, `graphql`, `typescript`, `mongodb`, `expressjs`, `postgressql` `Docker`, `HTML/CSS`, `Programming Resources`, etc.
 
 > Sahil Rajput
